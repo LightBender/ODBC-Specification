@@ -22,7 +22,7 @@
 extern "C" {            /* Assume C declarations for C++   */
 #endif  /* __cplusplus */
 
-#include <sqlext.h>
+#include "sqlext.h"
 
 #define SQL_WCHAR           (-8)
 #define SQL_WVARCHAR        (-9)
